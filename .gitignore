@@ -112,3 +112,35 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/graphs
+/seperate graphs
+/data/ears
+/data/ears_yolo_v2
+/data/ears_yolo_v2.zip
+/data/ears_yolo.zip
+detectors/cascade_detector/cascades/haarcascade_profileface.xml
+detectors/cascade_detector/cascades/haarcascade_righteye_2splits.xml
+detectors/cascade_detector/cascades/haarcascade_russian_plate_number.xml
+detectors/cascade_detector/cascades/haarcascade_smile.xml
+detectors/cascade_detector/cascades/haarcascade_upperbody.xml
+detectors/cascade_detector/cascades/lbpcascade_frontalcatface.xml
+detectors/cascade_detector/cascades/lbpcascade_frontalface.xml
+detectors/cascade_detector/cascades/lbpcascade_profileface.xml
+detectors/cascade_detector/cascades/lbpcascade_silverware.xml
+detectors/cascade_detector/cascades/haarcascade_eye_tree_eyeglasses.xml
+detectors/cascade_detector/cascades/haarcascade_eye.xml
+detectors/cascade_detector/cascades/haarcascade_frontalcatface_extended.xml
+detectors/cascade_detector/cascades/haarcascade_frontalcatface.xml
+detectors/cascade_detector/cascades/haarcascade_frontalface_alt_tree.xml
+detectors/cascade_detector/cascades/haarcascade_frontalface_alt.xml
+detectors/cascade_detector/cascades/haarcascade_frontalface_alt2.xml
+detectors/cascade_detector/cascades/haarcascade_frontalface_default.xml
+detectors/cascade_detector/cascades/haarcascade_fullbody.xml
+detectors/cascade_detector/cascades/haarcascade_lefteye_2splits.xml
+detectors/cascade_detector/cascades/haarcascade_licence_plate_rus_16stages.xml
+detectors/cascade_detector/cascades/haarcascade_lowerbody.xml
+Training_epochs_IoU_correlation.png
+vj_scale_iou_corr.png
+vj_scale_time_corr.png
+.vscode/settings.json
